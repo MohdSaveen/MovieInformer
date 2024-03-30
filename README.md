@@ -15,7 +15,14 @@ It utilizes modern Android Development technologies including Jetpack Compose, R
 - Intuitive Navigation : Seamless transition between screens with Navigation Compose.
 - MVVM Architecture : Clean and maintainable codebase with MVVM architecture and Flow.
 - Bottom Navigation Bar : Easy navigation between home and upcoming movies screens.
-![Screenshot_20240327_221913](https://github.com/MohdSaveen/MovieInformer/assets/86509885/77739f98-6cdd-4167-a506-f7dca2001b31)
-![Screenshot_20240327_222021](https://github.com/MohdSaveen/MovieInformer/assets/86509885/9f997d0a-1c5c-4e68-924d-1085cd3ee277)
-![Screenshot_20240328_051931](https://github.com/MohdSaveen/MovieInformer/assets/86509885/fe3fb2b2-58ac-48b4-a651-f22148340420)
-[Screen_recording_20240328_153451.webm](https://github.com/MohdSaveen/MovieInformer/assets/86509885/249646a5-b205-4cd7-9b0b-181c1dace34f)
+
+![Screenshot_20240330_163231](https://github.com/MohdSaveen/MovieInformer/assets/86509885/9442d58e-1d4b-48af-a6d2-ed5c13d5b988)
+
+
+![Screenshot_20240330_163243](https://github.com/MohdSaveen/MovieInformer/assets/86509885/8b687d9b-6e2c-4a7b-bd31-6e5c06242381)
+
+
+![Screenshot_20240330_163604](https://github.com/MohdSaveen/MovieInformer/assets/86509885/fcb55628-81cf-46d2-b314-7166d4806919)
+
+
+[Screen_recording_20240330_163413.webm](https://github.com/MohdSaveen/MovieInformer/assets/86509885/9327c06c-715b-43b4-867e-08cf7a56d0d6)
