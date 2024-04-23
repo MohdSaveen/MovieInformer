@@ -26,3 +26,9 @@ It utilizes modern Android Development technologies including Jetpack Compose, R
 
 
 [Screen_recording_20240330_163413.webm](https://github.com/MohdSaveen/MovieInformer/assets/86509885/9327c06c-715b-43b4-867e-08cf7a56d0d6)
+
+![Screenshot_20240423_150638](https://github.com/MohdSaveen/MovieInformer/assets/86509885/eb442221-3fcf-418b-ac61-4b6150a8e4f3)
+
+
+[Screen_recording_20240423_151006.webm](https://github.com/MohdSaveen/MovieInformer/assets/86509885/f45dd494-103a-46b3-97cd-b424def0e083)
+
